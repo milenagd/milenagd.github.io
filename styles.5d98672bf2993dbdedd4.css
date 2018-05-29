@@ -1,0 +1,93 @@
+.InputTask__input___1yqmU {
+  font-size: 15px;
+  height: 30px;
+  width: 95%;
+  padding: 2px 10px;
+  display: block;
+  margin: auto;
+  border-radius: 4px; }
+
+.InputTask__warning___1Q_e2 {
+  border: 2px solid red; }
+
+.InputTask__warningText___1NOTY {
+  color: red;
+  display: block;
+  margin-top: 3px; }
+.ListItem__delete___1-svY, .ListItem__check___y_9Rh {
+  height: 35px;
+  width: 40px;
+  background: none;
+  border: none;
+  cursor: pointer; }
+
+.ListItem__deleteIcon___2Lx03 {
+  width: 100%;
+  height: 100%;
+  fill: #AD0000; }
+
+.ListItem__checkIcon___21Cby {
+  width: 100%;
+  height: 100%; }
+  .ListItem__checkIcon___21Cby:focus {
+    fill: #006100; }
+  .ListItem__checkIcon___21Cby:hover {
+    fill: #006100; }
+
+.ListItem__completed___1o8WS {
+  fill: #006100; }
+
+.ListItem__item___31S4J {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  align-items: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-bottom: 1px solid;
+  flex-wrap: nowrap;
+  height: 45px; }
+
+.ListItem__task___1TfYq {
+  display: block;
+  margin-right: 10px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 78%; }
+
+.ListItem__wrapperActions___Wkn-7 {
+  display: flex;
+  justify-content: flex-end; }
+.List__list___3hIN8 {
+  margin: 0;
+  padding: 0; }
+.Filter__wrapper___3ZpqB {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: 10px; }
+
+.Filter__label___2YZhy {
+  margin-right: 12px; }
+
+.Filter__select___1d1GD {
+  height: 30px;
+  background: none;
+  border-radius: 4px; }
+.App__app___2Ku1j {
+  width: 50%;
+  min-width: 365px;
+  margin: auto; }
+
+.App__title___1cjaD {
+  margin: auto auto 10px auto;
+  text-align: center; }
+
+.App__wrapperList___1UeKL {
+  margin-top: 10px;
+  height: 459px;
+  background: #FCFCB6;
+  box-shadow: 0px 5px 10px #212121; }
+
+.App__wrapperListScroll___3Wfjn {
+  overflow-y: scroll; }
